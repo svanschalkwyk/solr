@@ -214,7 +214,7 @@ The following changes impact query behavior.
 
 *eDisMax Query Parser*
 
-* The eDisMax query parser will now thrown an error when the `qf` parameter refers to a nonexistent field.
+* The eDisMax query parser will now throw an error when the `qf` parameter refers to a nonexistent field.
 
 *Function Query Parser*
 
